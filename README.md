@@ -2,7 +2,7 @@
 
 I'm a web development student at Driven Education and a Bachelor's Degree in Science and Technology at UNIFESP - São José dos Campos
 
-My current focus is on **HTML**, **CSS**, **JavaScript** on **React** and I'm also interested in **Python** and **Flutter**
+My current focus is **JavaScript** on **React**/**Next**. I'm also interested in **Python** an **Django**
 
 ### Some facts about me
 
