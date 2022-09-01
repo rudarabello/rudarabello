@@ -2,7 +2,7 @@
 
 I'm a web development student at Driven Education and a Bachelor's Degree in Science and Technology at UNIFESP - São José dos Campos
 
-My current focus is **JavaScript** on **React** working with **Node.js**,**MongoDB** and **SQL**. I'm also study **Dart** applied to **Flutter**.
+My current focus is **JavaScript** on **React** working with **Node.js**, **MongoDB** and **SQL**. I'm also study **Dart** applied to **Flutter**.
 
 ### Some facts about me
 
