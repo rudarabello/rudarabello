@@ -1,4 +1,10 @@
-### Hello!
+### Hi there, I'm Rudá 👋
+
+<div align="right">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frudarabello%2Frudarabello"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frudarabello%2Frudarabello&labelColor=%232ccce4&countColor=%23d9e3f0&style=flat&labelStyle=none" /></a>
+</div>
+
+<br>
 
 I'm a web development student at Driven Education and a Bachelor's Degree in Science and Technology at UNIFESP - São José dos Campos.
 
