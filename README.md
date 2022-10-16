@@ -9,7 +9,7 @@
 
   
   
-I'm a web development student at Driven Education and a Bachelor's Degree in Science and Technology at UNIFESP - São José dos Campos.
+Web development student at Driven Education and graduating Bachelor's Degree in Science and Technology at UNIFESP - São José dos Campos.
 
 🔭 I’m currently working on
 
@@ -22,7 +22,7 @@ I'm a web development student at Driven Education and a Bachelor's Degree in Sci
 🌱 I’m also learning
 
  - ##### **Flutter**
-✨ And have recent expirence with 
+✨ And have recent experience with 
 
 - ##### **Docker** and **AWS**
 <br>
