@@ -51,4 +51,7 @@ São José dos Campos.
 
 [![wakatime](https://wakatime.com/badge/user/de09b70b-8675-4e1f-aed3-9a30ac245a48.svg)](https://wakatime.com/@de09b70b-8675-4e1f-aed3-9a30ac245a48)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rudarabello&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
