@@ -1,10 +1,10 @@
 ### Hi there, I'm Rudá 👋
 <img align="right" alt="yesss mackbook" src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif" width="50%" height="20%" />
  
-Web development student at Driven Education and graduating Bachelor's Degree in Science and Technology at UNIFESP
+Web developer and graduating Bachelor's Degree in Science and Technology at UNIFESP
 São José dos Campos.
 
-🔭 I’m currently working on:
+🔭 I’m currently working with:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +16,7 @@ São José dos Campos.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 :wrench: My tools:
 
@@ -31,11 +32,13 @@ São José dos Campos.
 🌱 I’m also learning:
 
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  
-✨ And have recent experience with:
+✨ And have experience with:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ⚡ Fun fact:
 
