@@ -1,14 +1,5 @@
 ### Hi there, I'm Rudá 👋
-<img align="right" alt="flutter react" src="https://media4.giphy.com/media/Q20mzrAwxHcIcg8VV6/giphy.gif?cid=790b76114317199f8edf008eb56489ebca7f23a14bb0a59e&rid=giphy.gif&ct=g" width="50%" height="20%" />
-
-<svg width="100" height="100">
-  <g>
-    <ellipse cx="100" cy="100" rx="160" ry="60" />
-    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(60, 100, 100)" />
-    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(120, 100, 100)" />
-    <circle cx="100" cy="100" r="30" />
-  </g>
-</svg>
+<img align="right" alt="flutter react" src="https://media4.giphy.com/media/Q20mzrAwxHcIcg8VV6/giphy.gif?cid=790b76114317199f8edf008eb56489ebca7f23a14bb0a59e&rid=giphy.gif&ct=g" width="40%" height="15%" />
  
 Mobile and Web developer and graduating Bachelor's Degree in Science and Technology at UNIFESP
 São José dos Campos.
