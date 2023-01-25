@@ -1,7 +1,7 @@
 ### Hi there, I'm Rudá 👋
 <img align="right" alt="flutter react" src="https://media4.giphy.com/media/Q20mzrAwxHcIcg8VV6/giphy.gif?cid=790b76114317199f8edf008eb56489ebca7f23a14bb0a59e&rid=giphy.gif&ct=g" width="50%" height="20%" />
 
-<svg width="200" height="200">
+<svg width="150" height="150">
   <g>
     <ellipse cx="100" cy="100" rx="160" ry="60" />
     <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(60, 100, 100)" />
