@@ -1,5 +1,5 @@
 ### Hi there, I'm Rudá 👋
-<img align="right" alt="flutter react" src="https://media3.giphy.com/media/nBirVPWsFd3MtRvq4P/giphy.gif" width="50%" height="20%" />
+<img align="right" alt="flutter react" src="https://media4.giphy.com/media/Q20mzrAwxHcIcg8VV6/giphy.gif?cid=790b76114317199f8edf008eb56489ebca7f23a14bb0a59e&rid=giphy.gif&ct=g" width="50%" height="20%" />
 
 <svg width="200" height="200">
   <g>
