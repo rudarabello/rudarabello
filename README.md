@@ -1,11 +1,13 @@
 ### Hi there, I'm Rudá 👋
 <img align="right" alt="yesss mackbook" src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif" width="50%" height="20%" />
  
-Web developer and graduating Bachelor's Degree in Science and Technology at UNIFESP
+Mobile and Web developer and graduating Bachelor's Degree in Science and Technology at UNIFESP
 São José dos Campos.
 
 🔭 I’m currently working with:
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,8 +33,6 @@ São José dos Campos.
 
 🌱 I’m also learning:
 
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  
 ✨ And have experience with:
