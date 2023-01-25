@@ -1,5 +1,5 @@
 ### Hi there, I'm Rudá 👋
-<img align="right" alt="flutter react" src="https://media4.giphy.com/media/Q20mzrAwxHcIcg8VV6/giphy.gif?cid=790b76114317199f8edf008eb56489ebca7f23a14bb0a59e&rid=giphy.gif&ct=g" width="40%" height="15%" />
+<img align="right" alt="flutter react" src="https://media4.giphy.com/media/Q20mzrAwxHcIcg8VV6/giphy.gif?cid=790b76114317199f8edf008eb56489ebca7f23a14bb0a59e&rid=giphy.gif&ct=g" width="35%" height="12%" />
  
 Mobile and Web developer and graduating Bachelor's Degree in Science and Technology at UNIFESP
 São José dos Campos.
