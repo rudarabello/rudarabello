@@ -50,10 +50,22 @@ São José dos Campos.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruda-rabello-da-silva/)](https://www.linkedin.com/in/ruda-rabello-da-silva//)
 
+
 :computer: Wakatime:
 
 [![wakatime](https://wakatime.com/badge/user/de09b70b-8675-4e1f-aed3-9a30ac245a48.svg)](https://wakatime.com/@de09b70b-8675-4e1f-aed3-9a30ac245a48)
 
+:computer: Github:
+
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rudarabello&show_icons=true&count_private=true&theme=light" width="350">
+ </a>
+</p>
+
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudarabello&layout=compact&theme=light&hide_border=true&cache_seconds=2000" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" width="350">
+ </a>
+</p>
 
 <!--START_SECTION:waka-->
 
