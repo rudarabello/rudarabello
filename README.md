@@ -1,4 +1,7 @@
-### Hi there, I'm Rudá 👋
+<div align='center'>
+ 
+ 
+ ### Hi there, I'm Rudá 👋
 
 Mobile and Web developer and graduating Bachelor's Degree in Science and Technology at UNIFESP
 São José dos Campos.
@@ -27,8 +30,9 @@ São José dos Campos.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-⚡ Fun fact:
+</div>
+ 
+⚡ Fun facts:
 
 - I worked in the chemical industry for approximately 10 years
 - I got to know the software development career and fell in love
@@ -46,12 +50,12 @@ São José dos Campos.
 
 :computer: Github:
 
-<p align='left'>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rudarabello&show_icons=true&count_private=true&theme=light" width="350">
  </a>
 </p>
 
-<p align='left'>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudarabello&layout=compact&theme=light&hide_border=true&cache_seconds=2000" title="Linguagens mais utilizadas" alt="Linguagens mais utilizadas" width="350">
  </a>
 </p>
