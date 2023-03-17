@@ -34,7 +34,7 @@ São José dos Campos.
  
 ⚡ Fun facts:
 
-- I worked in the chemical industry for approximately 10 years
+- I worked in the chemical industry for approximately 8 years
 - I got to know the software development career and fell in love
 - I'm a bass player and I love motorsport
 - For me, life is sweetest when it’s shared with others (ESFJ-A)
