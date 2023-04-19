@@ -1,12 +1,19 @@
 <div align='center'>
  
  
- ### Hi there, I'm Rudá 👋
+ ### Olá, seja bem vindo ao meu perfil 👋
 
-Mobile and Web developer and graduating Bachelor's Degree in Science and Technology at UNIFESP
-São José dos Campos.
+Conheci Python e C no Bacharelado em Ciência e Tecnologia que estou cursando e depois de trabalhar por aproximadamente 8 anos na indústria química, optei por mudar de carreira.
 
-🔭 I’m currently working with:
+No bootcamp da Driven desenvolvi hard skills focadas na stack JavaScript, usando React e Node.  Para testes utilizo Cypress para E2E e Jest para unitários. Em Bancos de Dados, MongoDB e Postgres. Também desenvolvi experiência em metodologias ágeis, SCRUM e Git Flow, Docker, Git e GitHub e pratiquei conceitos de CI/CD.
+
+Este curso foi fundamental para desenvolver minhas soft skills através de discussões, dinâmicas e aulas focadas em trabalho em equipe, empatia, feedback e inteligência emocional. Também tivemos dinâmicas sobre perfil comportamental e em uma delas fiz o teste para saber qual era a meu. O resultado foi Sentinela/Consul (ESFJ-A). Se desejar saber mais sobre clique em https://www.16personalities.com/br/personalidade-esfj 
+
+No bootcamp da Proz, aprendi e pratiquei o desenvolvimento móvel Flutter usando o Dart. Fizemos um app de gestão financeira que está no meu GitHub. Nele utilizamos arquitetura MVC+R, Bloc, Firebase, Firestore, Dio e algumas bibliotecas para suporte.
+
+Sou usuário do sistema operacional Linux (Ubuntu) e tenho implantações usando ações do GitHub, Heroku, Vercel e AWS
+
+🔭 Atualmente tenho conhecimento em:
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,7 +24,7 @@ São José dos Campos.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-:wrench: My tools:
+:wrench: Minhas atuais ferramentas são:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -26,25 +33,20 @@ São José dos Campos.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
  
-✨ And have experience with:
+✨ Tenho experiência com:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
  
-⚡ Fun facts:
 
-- I worked in the chemical industry for approximately 8 years
-- I got to know the software development career and fell in love
-- I'm a bass player and I love motorsport
-- For me, life is sweetest when it’s shared with others (ESFJ-A)
-
-📫 How to reach me:
+📫 Como me encontrar:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruda-rabello-da-silva/)](https://www.linkedin.com/in/ruda-rabello-da-silva//)
 
 
-:computer: Wakatime:
+:computer: Dados do Wakatime:
 
 [![wakatime](https://wakatime.com/badge/user/de09b70b-8675-4e1f-aed3-9a30ac245a48.svg)](https://wakatime.com/@de09b70b-8675-4e1f-aed3-9a30ac245a48)
 
