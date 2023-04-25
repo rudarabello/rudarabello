@@ -5,13 +5,13 @@
 
 Conheci Python e C no Bacharelado em Ciência e Tecnologia que estou cursando e depois de trabalhar por aproximadamente 8 anos na indústria química, optei por mudar de carreira.
 
-No bootcamp da Driven desenvolvi hard skills focadas na stack JavaScript, usando React e Node.  Para testes utilizo Cypress para E2E e Jest para unitários. Em Bancos de Dados, MongoDB e Postgres. Também desenvolvi experiência em metodologias ágeis, SCRUM e Git Flow, Docker, Git e GitHub e pratiquei conceitos de CI/CD.
+Na Driven desenvolvi hard skills focadas na stack JavaScript, usando React e Node. Para testes uso Cypress para E2E e Jest para unitários. Em Bancos de Dados, MongoDB e Postgres. Também desenvolvi experiência em metodologias ágeis, SCRUM e Git Flow, Docker, Git e GitHub e pratiquei CI/CD. 
 
-Este curso foi fundamental para desenvolver minhas soft skills através de discussões, dinâmicas e aulas focadas em trabalho em equipe, empatia, feedback e inteligência emocional. Também tivemos dinâmicas sobre perfil comportamental e em uma delas fiz o teste para saber qual era a meu. O resultado foi Sentinela/Consul (ESFJ-A). Se desejar saber mais sobre clique em https://www.16personalities.com/br/personalidade-esfj 
+Na Proz aprendi Dart e Flutter. Fizemos um app de gestão financeira que está no meu GitHub. Nele utilizamos arquitetura MVC+R, Bloc, Firebase, Firestore, Dio e algumas bibliotecas para suporte.
 
-No bootcamp da Proz, aprendi e pratiquei o desenvolvimento móvel Flutter usando o Dart. Fizemos um app de gestão financeira que está no meu GitHub. Nele utilizamos arquitetura MVC+R, Bloc, Firebase, Firestore, Dio e algumas bibliotecas para suporte.
+Desenvolvi soft skills através de discussões, dinâmicas e aulas focadas em trabalho em equipe, empatia, feedback e inteligência emocional. Também tivemos dinâmicas sobre perfil comportamental e em uma delas fiz o teste para saber qual era a meu. O resultado foi Sentinela/Consul (ESFJ-A). Se desejar saber mais sobre clique em https://www.16personalities.com/br/personalidade-esfj
 
-Sou usuário do sistema operacional Linux (Ubuntu) e tenho implantações usando ações do GitHub, Heroku, Vercel e AWS
+Sou usuário do sistema operacional Linux (Ubuntu) e tenho deploys usando GitHubActions, Heroku, Vercel e AWS
 
 🔭 Atualmente tenho conhecimento em:
 
