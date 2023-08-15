@@ -3,13 +3,15 @@
  
  ### Olá, seja bem vindo ao meu perfil 👋
 
-Conheci Python e C no Bacharelado em Ciência e Tecnologia que estou cursando e depois de trabalhar por aproximadamente 8 anos na indústria química, optei por mudar de carreira.
+Conheci Python e C no Bacharelado em Ciência e Tecnologia na Unifesp e depois de trabalhar por aproximadamente 8 anos na indústria química, optei por iniciar minha transição de carreira.
 
 Na Driven desenvolvi hard skills focadas na stack JavaScript, usando React e Node. Para testes uso Cypress para E2E e Jest para unitários. Em Bancos de Dados, MongoDB e Postgres. Também desenvolvi experiência em metodologias ágeis, SCRUM e Git Flow, Docker, Git e GitHub e pratiquei CI/CD. 
 
 Na Proz aprendi Dart e Flutter. Fizemos um app de gestão financeira que está no meu GitHub. Nele utilizamos arquitetura MVC+R, Bloc, Firebase, Firestore, Dio e algumas bibliotecas para suporte.
 
 Desenvolvi soft skills através de discussões, dinâmicas e aulas focadas em trabalho em equipe, empatia, feedback e inteligência emocional. Também tivemos dinâmicas sobre perfil comportamental e em uma delas fiz o teste para saber qual era a meu. O resultado foi Sentinela/Consul (ESFJ-A). Se desejar saber mais sobre clique em https://www.16personalities.com/br/personalidade-esfj
+
+Atualmente curso o Bacharelado em Tecnologia da Informação na UNIVESP
 
 Sou usuário do sistema operacional Linux (Ubuntu) e tenho deploys usando GitHubActions, Heroku, Vercel e AWS
 
@@ -27,7 +29,6 @@ Sou usuário do sistema operacional Linux (Ubuntu) e tenho deploys usando GitHub
 :wrench: Minhas atuais ferramentas são:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
